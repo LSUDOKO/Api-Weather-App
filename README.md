@@ -67,7 +67,12 @@ Enter the name of a city in the search box.
 Click the search button or press Enter to fetch and display the weather details for the entered city.
 
 ## 🖼️ Screenshots
-
+![image alt](https://github.com/LSUDOKO/Api-Weather-App/blob/78ee52127825000be1474fa34810996a6ff1c5b2/screenshots/clear.png)
+![image alt](https://github.com/LSUDOKO/Api-Weather-App/blob/78ee52127825000be1474fa34810996a6ff1c5b2/screenshots/clouds.png)
+![image alt](https://github.com/LSUDOKO/Api-Weather-App/blob/78ee52127825000be1474fa34810996a6ff1c5b2/screenshots/invalid%20city.png)
+![image alt](https://github.com/LSUDOKO/Api-Weather-App/blob/78ee52127825000be1474fa34810996a6ff1c5b2/screenshots/rain.png)
+![image alt](https://github.com/LSUDOKO/Api-Weather-App/blob/78ee52127825000be1474fa34810996a6ff1c5b2/screenshots/search.png)
+![image alt](https://github.com/LSUDOKO/Api-Weather-App/blob/78ee52127825000be1474fa34810996a6ff1c5b2/screenshots/snow.png)
 Include screenshots of the website here to give users a preview of its appearance.
 
 ## 😉 Future Enhancements
